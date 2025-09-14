@@ -5,14 +5,25 @@ Com exemplos práticos, você vai descobrir como o Pandas pode transformar dados
 ## Estrutura do Projeto
 
 ├── notebooks/
+
 │ └── Kung-Fu-Pandas-artes-marciais-para-manipular-dados-na-biblioteca-Pandas.ipynb
+
 │
+
 ├── data/
+
 │ ├── df_vendas.csv
+
 │ ├── clientes.json
+
 │ └── estoque.xlsx
+
 │
+
 ├── README.md
+
 ├── requirements.txt
+
 └── .gitignore
+
 
