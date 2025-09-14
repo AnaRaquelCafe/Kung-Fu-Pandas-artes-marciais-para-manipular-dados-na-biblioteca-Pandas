@@ -8,13 +8,15 @@ Este projeto é um guia prático do Pandas, pensado para quem quer aprender de f
 
 **notebooks**: Notebook com o guia prático da biblioteca pandas.
 
-  Kung-Fu-Pandas-artes-marciais-para-manipular-dados-na-biblioteca-Pandas.ipynb
+  - Kung-Fu-Pandas-artes-marciais-para-manipular-dados-na-biblioteca-Pandas.ipynb
 
 **data**: DataFrames utilizados na análise de dados.
 
-  df_vendas.csv
-  clientes.json
-  estoque.xlsx
+  - df_vendas.csv
+  
+  - clientes.json
+  
+  - estoque.xlsx
 
 **requirements.txt**: Versão da biblioteca utilizada no projeto.
 
